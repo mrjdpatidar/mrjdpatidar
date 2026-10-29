@@ -1,60 +1,63 @@
-# Hi, I'm Jagdish Patidar 👋
+# Hi, I'm Jagdish Patidar (JD)
 
-### Shopify & Full-Stack Developer | Founder & CEO, Drunall Technologies
+### Software Developer | Shopify Expert | Founder of Drunall Technologies
 
-I build eCommerce experiences, custom software, and automation tools that help businesses work better.
+I'm a software developer with **11+ years of experience** building websites, eCommerce stores, and custom software solutions for businesses.
 
-With 12+ years of combined software development and entrepreneurial experience, I bring a business-first approach to every project—from understanding the workflow to building, launching, and maintaining the solution.
+I started my career as a developer in 2015, became a co-founder of an IT company in 2019, and started my own IT company, **[Drunall Technologies](https://www.drunall.com/)**, in 2026.
 
-Based in Indore, India, I founded [Drunall Technologies](https://www.drunall.com) in 2021. Through Drunall, we have served 150+ clients across eCommerce, retail, education, hospitality, and professional services.
+Over the years, I've worked with businesses across different industries, helping them build websites, improve existing systems, and turn their ideas into working software. I enjoy solving technical problems and building solutions that are practical, reliable, and easy to maintain.
 
-## What I Work On
+## What I Do
 
-- **Shopify Development:** Custom themes, reusable Liquid sections, product pages, bundles, cart experiences, and multilingual storefronts.
-- **Full-Stack Development:** Web applications, dashboards, customer portals, and API integrations.
-- **Business Software:** School management systems, CRM, POS, ERP, and SaaS applications.
-- **Workflow Automation:** Connecting Shopify, Make.com, Klaviyo, and business tools to reduce repetitive work.
-- **UI/UX Implementation:** Turning designs into responsive, accessible, and maintainable interfaces.
+- **Shopify Development:** Custom themes, Liquid development, product pages, cart customizations, Shopify Plus, and API integrations.
+- **Web Development:** Responsive websites and web applications using React, Angular, PHP, Laravel, and JavaScript.
+- **Custom Software:** CRM, ERP, POS, school management systems, and business applications.
+- **API Integrations & Automation:** Connecting different platforms and automating repetitive business tasks.
+- **UI Implementation:** Converting Figma designs into responsive, user-friendly websites.
 
-## Technologies & Tools
+## My Career Journey
+
+- **2026 – Present:** Founder at Drunall Technologies, building web, eCommerce, and custom software solutions.
+- **2019 – 2025:** Co-Founder of an IT company, working on client projects, software development, and business growth.
+- **2015 – 2019:** Software Developer, building my technical skills and working on real-world projects.
+
+## Technologies I Work With
 
 | Area | Technologies |
-| --- | --- |
-| Frontend | JavaScript, React, HTML, CSS |
-| Backend | PHP, Laravel |
-| eCommerce | Shopify, Liquid, Shopify APIs |
-| Databases | MySQL, SQLite |
-| Automation | Make.com, Klaviyo, Webhooks |
-| Development & Design | Git, GitHub, Figma |
+|---|---|
+| eCommerce | Shopify, Shopify Plus, Liquid |
+| Frontend | JavaScript, React, Angular, HTML, CSS |
+| Backend | PHP, Laravel, CodeIgniter, Node.js |
+| Database | MySQL, SQLite |
+| APIs | REST APIs, GraphQL, Webhooks |
+| Tools | Git, GitHub, Shopify CLI, Figma |
+| Automation | Make.com, Klaviyo, Shopify Flow |
 
-## Selected Work
+## Some of My Work
 
-### Custom Shopify Experiences
-Custom product pages, bundle builders, navigation systems, collection filters, and cart features built around each store's requirements.
+**Shopify Stores:** Custom storefronts, product pages, bundles, cart features, and third-party integrations.
 
-### School Management Software
-An application covering admissions, attendance, and fee collection—an early project that grew into a maintained product.
+**School Management Software:** Applications for managing admissions, attendance, fees, and daily school operations.
 
-### Business Applications
-Custom CRM, POS, ERP, and SaaS solutions designed around day-to-day business operations.
+**Business Applications:** Custom dashboards, CRM, POS, ERP, and other software built around business requirements.
 
-### eCommerce Automation
-Scheduled workflows connecting Shopify customer data, Google Sheets, Make.com, and Klaviyo for personalized email delivery.
+**Workflow Automation:** Integrations between eCommerce platforms, spreadsheets, and marketing tools to reduce manual work.
 
-Explore my public repositories below, or visit my [portfolio](https://jdpatidar.com) for more about my work.
+Feel free to explore my public repositories to see what I'm working on.
 
-## How I Approach Development
+## How I Work
 
-> Understand the business first, choose the technology second, and don’t confuse a working demo with a finished product.
+I believe good software starts with understanding the actual problem. I focus on writing maintainable code, building reliable features, and creating solutions that make everyday work easier.
 
-I focus on clear requirements, reliable functionality, performance, and long-term maintainability—with support beyond launch.
+I'm always interested in learning new technologies, solving challenging problems, and working with people who have interesting ideas to build.
 
 ## Let's Connect
 
-- **Company:** [Drunall Technologies](https://www.drunall.com)
-- **Portfolio:** [jdpatidar.com](https://jdpatidar.com)
+- **Website:** [Drunall Technologies](https://www.drunall.com/)
+- **Portfolio:** [jdpatidar.com](https://jdpatidar.com/)
 - **LinkedIn:** [Jagdish Patidar](https://www.linkedin.com/in/jdpatidar/)
-- **Upwork:** [View my profile](https://upwork.com/freelancers/jagdishp7)
-- **Freelancer:** [View my profile](https://www.freelancer.com/u/ptdrjp1993)
+- **Upwork:** [My Upwork Profile](https://upwork.com/freelancers/jagdishp7)
+- **Freelancer:** [My Freelancer Profile](https://www.freelancer.com/u/ptdrjp1993)
 
-Open to Shopify development, custom software projects, API integrations, and automation collaborations.
+I'm open to discussing Shopify projects, web development, custom software, and long-term collaborations with clients worldwide.
