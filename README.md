@@ -26,12 +26,12 @@ Over the years, I've worked with businesses across different industries, helping
 
 | Area | Technologies |
 |---|---|
-| eCommerce | Shopify, Shopify Plus, Liquid |
+| eCommerce | Shopify, Shopify Plus, Liquid, WordPress, WooCommerce |
 | Frontend | JavaScript, React, Angular, HTML, CSS |
 | Backend | PHP, Laravel, CodeIgniter, Node.js |
-| Database | MySQL, SQLite |
+| Database | MySQL, SQLite, MongoDB |
 | APIs | REST APIs, GraphQL, Webhooks |
-| Tools | Git, GitHub, Shopify CLI, Figma |
-| Automation | Make.com, Klaviyo, Shopify Flow |
+| Tools | Git, GitHub, Shopify CLI, Figma, Canva, GPT, Cursor, Antigravity, Claude |
+| Automation | Make.com, Klaviyo, Shopify Flow, Zoho, Cron Jobs |
 
 I'm open to discussing Shopify projects, web development, custom software, and long-term collaborations with clients worldwide.
